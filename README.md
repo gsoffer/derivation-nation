@@ -9,7 +9,7 @@ This is the code for a web app I created that I'm no longer hosting. It was call
 
 **Technical Details:**
 
-This web app was built using Laravel 5, a PHP server-side web framework. Laravel's Blade templating engine is used for all the views. MySQL is used as the database, and MathTex is used for displaying mathematical notation. The app was hosted using a LAMP configuration. This was my first time using Laravel, and I absolutely love it. It is extremely intuitive, powerful, and most importantly, very well documented. The official Laracasts (how-to videos) for the framework were also extremely helpful.
+This web app was built using Laravel 5, a PHP server-side web framework. Laravel's Blade templating engine is used for all the views. MySQL is used as the database, and MathTex is used for displaying mathematical notation. CKEditor was used to provide a powerful and user-friendly way of posting math proofs to users. The app was hosted using a LAMP configuration. This was my first time using Laravel, and I absolutely love it. It is extremely intuitive, powerful, and most importantly, very well documented. The official Laracasts (how-to videos) for the framework were also extremely helpful.
 
 
 **Background:**

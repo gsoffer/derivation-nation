@@ -1,5 +1,6 @@
 # derivation-nation
-**Derivation Nation: A Mathproofs Archive Web App** (*LAMP / Laravel 5 / PHP / MySQL*)
+**Derivation Nation: A Mathproofs Archive Web App** *(LAMP / Laravel 5 / PHP / MySQL)*
+
 
 **Overview:**
 
